@@ -9,8 +9,9 @@ class ShareApplicationTests {
   @Test
   void contextLoads() {
 
-    System.out.println("1111111111");
-    System.out.println("2222222222");
+    System.out.println("1111lyf-test111111");
+    System.out.println("TTTTTTEEESSSSTTTT");
+    System.out.println("22222222*****************22");
   }
 
 }
