@@ -32,6 +32,7 @@ public class IpTest {
     }
     if((s2+s2).contains(s1)){
       return true;
+
     }else{
       return false;
     }
