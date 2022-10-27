@@ -8,6 +8,8 @@ class ShareApplicationTests {
 
   @Test
   void contextLoads() {
+
+    System.out.println("1111111111");
   }
 
 }
